@@ -19,7 +19,7 @@ RESULT_TOPIC = "wan-vission-simple-output"
 TRANSLATE_TOPIC = "wan-vission-simple-input"
 RESULT_BUCKET = "wan-vission-simple-output"
 TRANSLATE = True
-TO_LANG = "en fr es ar ru hi"
+TO_LANG = "en ua pl fr"
 
 # [START functions_ocr_detect]
 def detect_text(bucket, filename):
