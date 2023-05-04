@@ -1,1 +1,0 @@
-# vision_ai_capabilities
